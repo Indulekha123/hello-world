@@ -1,1 +1,2 @@
-Hello World
+Hello Git!
+I deleted World and inserted 'Git!'
